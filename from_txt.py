@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-the main module to tackle plain text files exported from Data Analysis modified from
+Slightly modified version from
 https://github.com/weimin-liu/msi_feature_extraction/blob/main/src/mfe/from_txt.py
+Full credit to Weimin Liu
 """
 import concurrent.futures
 import math
