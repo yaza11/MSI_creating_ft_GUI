@@ -6,5 +6,9 @@ Load in a txt file. You can choose a peak threshold (peak prominence) in the "Fe
 
 ![image](https://github.com/yaza11/MSI_creating_ft_GUI/assets/116643078/ec6e1c96-9dc9-4e13-b57c-220b91c02e7c)
 
+# Download executable
+available at https://seafile.zfn.uni-bremen.de/f/f4db7e346d5b4ca2a515/?dl=1
+
+
 
 
